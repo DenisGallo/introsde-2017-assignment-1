@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+    <person id="0001">
+        <firstname>Bond R.</firstname>
+        <lastname>Martin</lastname>
+        <birthdate>1984-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0002">
+        <firstname>Mattia</firstname>
+        <lastname>Buffa</lastname>
+        <birthdate>1994-03-24</birthdate>
+        <activitypreference id="101">
+            <name>Playing</name>
+            <description>Playing videogames</description>
+            <place>Home</place>
+            <startdate>2017-10-14T11:54:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0003">
+        <firstname>Marco</firstname>
+        <lastname>Canale</lastname>
+        <birthdate>1944-03-13</birthdate>
+        <activitypreference id="102">
+            <name>Gym</name>
+            <description>Doing workout</description>
+            <place>Gym</place>
+            <startdate>2017-09-25T16:50:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0004">
+        <firstname>Kevin</firstname>
+        <lastname>Martin</lastname>
+        <birthdate>1984-11-20</birthdate>
+        <activitypreference id="103">
+            <name>Poker</name>
+            <description>Playing online poker</description>
+            <place>home</place>
+            <startdate>2017-07-13T10:50:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0005">
+        <firstname>Denis</firstname>
+        <lastname>Gallo</lastname>
+        <birthdate>1993-09-29</birthdate>
+        <activitypreference id="104">
+            <name>Eating</name>
+            <description>Having Launch</description>
+            <place>Restaurant</place>
+            <startdate>2017-04-15T12:54:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0006">
+        <firstname>Tancredi</firstname>
+        <lastname>Zini</lastname>
+        <birthdate>1978-01-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0007">
+        <firstname>Linda</firstname>
+        <lastname>Bertolli</lastname>
+        <birthdate>1998-09-20</birthdate>
+        <activitypreference id="101">
+            <name>Playing</name>
+            <description>Playing videogames</description>
+            <place>Home</place>
+            <startdate>2017-10-14T11:54:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0008">
+        <firstname>Mommaso</firstname>
+        <lastname>Tontefusco</lastname>
+        <birthdate>1990-05-21</birthdate>
+        <activitypreference id="102">
+            <name>Gym</name>
+            <description>Doing workout</description>
+            <place>Gym</place>
+            <startdate>2017-09-25T16:50:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0009">
+        <firstname>Christian</firstname>
+        <lastname>Corso</lastname>
+        <birthdate>1990-11-20</birthdate>
+        <activitypreference id="103">
+            <name>Poker</name>
+            <description>Playing online poker</description>
+            <place>home</place>
+            <startdate>2017-07-13T10:50:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0010">
+        <firstname>Marco</firstname>
+        <lastname>Strambelli</lastname>
+        <birthdate>1950-02-20</birthdate>
+        <activitypreference id="104">
+            <name>Eating</name>
+            <description>Having Launch</description>
+            <place>Restaurant</place>
+            <startdate>2017-04-15T12:54:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0011">
+        <firstname>Enrico</firstname>
+        <lastname>Tomiello</lastname>
+        <birthdate>1997-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0012">
+        <firstname>Alberto</firstname>
+        <lastname>Cortese</lastname>
+        <birthdate>1978-10-20</birthdate>
+        <activitypreference id="101">
+            <name>Playing</name>
+            <description>Playing videogames</description>
+            <place>Home</place>
+            <startdate>2017-10-14T11:54:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0013">
+        <firstname>Pietro</firstname>
+        <lastname>Cortese</lastname>
+        <birthdate>1999-09-01</birthdate>
+        <activitypreference id="102">
+            <name>Gym</name>
+            <description>Doing workout</description>
+            <place>Gym</place>
+            <startdate>2017-09-25T16:50:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0014">
+        <firstname>Andrea</firstname>
+        <lastname>Bernardi</lastname>
+        <birthdate>1996-09-20</birthdate>
+        <activitypreference id="103">
+            <name>Poker</name>
+            <description>Playing online poker</description>
+            <place>home</place>
+            <startdate>2017-07-13T10:50:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0015">
+        <firstname>Edoardo</firstname>
+        <lastname>Gili</lastname>
+        <birthdate>1981-09-20</birthdate>
+        <activitypreference id="104">
+            <name>Eating</name>
+            <description>Having Launch</description>
+            <place>Restaurant</place>
+            <startdate>2017-04-15T12:54:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0016">
+        <firstname>Alessia</firstname>
+        <lastname>Meda</lastname>
+        <birthdate>1944-09-20</birthdate>
+        <activitypreference id="100">
+            <name>Running</name>
+            <description>Running to the Park</description>
+            <place>Gocciadoro</place>
+            <startdate>2017-10-13T11:50:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0017">
+        <firstname>Jennifer</firstname>
+        <lastname>Niec</lastname>
+        <birthdate>1993-03-06</birthdate>
+        <activitypreference id="101">
+            <name>Playing</name>
+            <description>Playing videogames</description>
+            <place>Home</place>
+            <startdate>2017-10-14T11:54:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0018">
+        <firstname>Francesca</firstname>
+        <lastname>Michelon</lastname>
+        <birthdate>1979-10-20</birthdate>
+        <activitypreference id="102">
+            <name>Gym</name>
+            <description>Doing workout</description>
+            <place>Gym</place>
+            <startdate>2017-09-25T16:50:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0019">
+        <firstname>Ambra</firstname>
+        <lastname>Bizzotto</lastname>
+        <birthdate>1998-11-20</birthdate>
+        <activitypreference id="103">
+            <name>Poker</name>
+            <description>Playing online poker</description>
+            <place>home</place>
+            <startdate>2017-07-13T10:50:00.0</startdate>
+        </activitypreference>
+    </person>
+	    <person id="0020">
+        <firstname>Katia</firstname>
+        <lastname>Bevilacqua</lastname>
+        <birthdate>1994-05-24</birthdate>
+        <activitypreference id="104">
+            <name>Eating</name>
+            <description>Having Launch</description>
+            <place>Restaurant</place>
+            <startdate>2017-04-15T12:54:00.0</startdate>
+        </activitypreference>
+    </person>
+</people>
