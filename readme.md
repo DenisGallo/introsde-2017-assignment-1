@@ -1,18 +1,3 @@
-# I'm a title
-## I'a a subtitle
-### ye i understood
-**I'm bold but i need to stay near the***
-[Webpage](www.google.it "I'm the description if you hover me")
-I'm text.
-I'm a blankspace&nbsp;
-* i'm a nested point
-* i'm another
-    * i'm a nested in a nested
-        1. oh baby a truple
-```
-i'm code
-```
-[i'm a bibliography link][15] 
 
 ## Denis Gallo (194441) | denis.gallo@studenti.unitn.it
 
